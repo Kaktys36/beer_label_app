@@ -3,8 +3,9 @@
 Десктопное приложение для управления базой данных сортов пива, генерации и печати этикеток на принтере Xprinter XP-365B (или любом другом Windows-принтере).  
 Программа написана на Python с использованием Tkinter, PIL и win32print.
 
-![temp_photo](https://github.com/user-attachments/assets/7d2d832a-bb96-4351-9de1-56c81f307c43)
-![photo_2026-02-22_13-52-28](https://github.com/user-attachments/assets/6ae8a60b-3d3e-4fa1-9300-58f6acf26adb)
+<img width="899" height="730" alt="image" src="https://github.com/user-attachments/assets/9f9adfbc-0070-4988-8a92-3335fdf222ef" />
+<img width="400" height="328" alt="image" src="https://github.com/user-attachments/assets/eea526f8-9390-48f9-8987-14e7acc54f18" />
+
 
 
 ## Возможности
